@@ -1,0 +1,14 @@
+{
+  "name": "mmm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saad Ahmed Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.4.4"
+  }
+}
